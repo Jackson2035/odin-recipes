@@ -1,0 +1,1 @@
+The Odin Recipes Project is a website that contains links and images to recipes for various meals. This is a basic project aimed towards practicing my skills involving creating links and images within my website.
